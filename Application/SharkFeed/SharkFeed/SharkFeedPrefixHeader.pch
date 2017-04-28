@@ -1,0 +1,15 @@
+//
+//  SharkFeedPrefixHeader.pch
+//  sharkfeed
+//
+//  Created by PRABHAKAR, PRAJEESH on 4/12/17.
+//  Copyright © 2017 Prajeesh Prabhakar. All rights reserved.
+//
+
+#ifndef SharkFeedPrefixHeader_pch
+#define SharkFeedPrefixHeader_pch
+
+#import "FilckrSharkFeedMacro.h"
+#import "FlickrSharkFeedApplicationManager.h"
+
+#endif /* SharkFeedPrefixHeader_pch */
